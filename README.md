@@ -1,9 +1,11 @@
-# hai_perspective_api
+# Bias Detection in Perspective API
 for Stanford HAI audit competition
 
-Check out the code in [perspective_public.ipynb](https://github.com/royapakzad/hai_perspective_api/blob/main/perspective_public.ipynb)
-Google form: https://forms.gle/UxMKueg6NTJDYoaw7
-outputs in [output_religion.csv](https://github.com/royapakzad/hai_perspective_api/blob/main/output_religion.csv) and [output_derogatory.csv](https://github.com/royapakzad/hai_perspective_api/blob/main/output_derogatory.csv)
+### Check out the code in [perspective_public.ipynb](https://github.com/royapakzad/hai_perspective_api/blob/main/perspective_public.ipynb)
+
+### Google form for writing "seed" sentences: https://forms.gle/UxMKueg6NTJDYoaw7
+
+### outputs in [output_religion.csv](https://github.com/royapakzad/hai_perspective_api/blob/main/output_religion.csv) and [output_derogatory.csv](https://github.com/royapakzad/hai_perspective_api/blob/main/output_derogatory.csv)
 
 The proposed project will use “community-based red teaming” to test for biases in Perspective API, a popular service used by media platforms that seeks to combat online harassment and toxicity. In the initial test case, religious biases are the focus, but the concept can be readily expanded to encompass other forms of bias (gender-based, ethnic, national, etc). 
 
