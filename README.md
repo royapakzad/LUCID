@@ -19,8 +19,7 @@ This tool is grounded in the conviction that red teaming should not only be done
 
 As the use of AI language models continues to grow, tools like this will be essential for ensuring the alignment of AI models with the needs of underrepresented communities  and for promoting critical thinking about bias detection. 
 
-#### Project Presentation: 
-https://drive.google.com/file/d/1Ci1HSrZfp9BbCdvlJNxmil8KZrjxqe1t/view?usp=share_link
+#### Project Presentation: https://drive.google.com/file/d/1PytF6BuFDepyHQjKieNrJ6EMMV-TsRWq/view?usp=sharing
 
 #### Project Slides: https://docs.google.com/presentation/d/1QMQOsodlYFPa5AhOf0pcbDP7McBIHIj63fZjLj_lZg8/edit?usp=sharing
 
