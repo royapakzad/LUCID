@@ -3,10 +3,6 @@ for Stanford HAI audit competition
 
 #### Check out the code in [perspective_public.ipynb](https://github.com/royapakzad/hai_perspective_api/blob/main/perspective_public.ipynb)
 
-#### Google form for writing "seed" sentences: https://forms.gle/UxMKueg6NTJDYoaw7
-
-#### outputs in the Google Sheet: https://docs.google.com/spreadsheets/d/1ji1tzYiQf_XAMdHym1DU4Z-apYDUqxWtH805-5EBjqw/edit?usp=sharing 
-
 "LUCID" is an AI bias assessment tool that uses a variety of large language models (LLMs) to "red team" AI bias issues. Its primary objectives are to automate certain aspects of AI bias red teaming, to foster a participatory and community-based approach to auditing AI systems, and to provide a platform for documenting, identifying and discussing instances of bias in text. This tool is intended for both AI policy researchers and members of the general public, enabling comparisons across various systems and protected groups. Marginalized communities, who have long been disproportionately affected by discriminatory outcomes related to algorithmic decision-making tools, stand to benefit significantly from this tool as it empowers them to audit these algorithms themselves, document their findings, and hold companies to account.
 
 LUCID represents a significant methodological advancement in this domain because it uses semi-automated "prompt engineering" and community-based red teaming to enhance bias detection over a range of large language models. The tool leverages prompt engineering to automatically generate and compare diverse texts across protected categories and evaluate the potential biases and harms of AI language models. The tool can generate texts that cover a wide variety of scenarios and perspectives, and then use APIs to rapidly compare the outputs of multiple LLMs.
@@ -23,9 +19,11 @@ This tool is grounded in the conviction that red teaming should not only be done
 
 As the use of AI language models continues to grow, tools like this will be essential for ensuring the alignment of AI models with the needs of underrepresented communities  and for promoting critical thinking about bias detection. 
 
-Project Publication/Presentation: 
+#### Project Presentation: 
 https://drive.google.com/file/d/1Ci1HSrZfp9BbCdvlJNxmil8KZrjxqe1t/view?usp=share_link
 
-Link to the slides: https://docs.google.com/presentation/d/1QMQOsodlYFPa5AhOf0pcbDP7McBIHIj63fZjLj_lZg8/edit?usp=sharing
-Link to output Google Sheet: https://docs.google.com/spreadsheets/d/1ji1tzYiQf_XAMdHym1DU4Z-apYDUqxWtH805-5EBjqw/edit#gid=0
-Link to input Google Form: https://docs.google.com/forms/d/e/1FAIpQLSfu5u8dWCJU69v7RnqaYmHQxKlkXXq60tMInfMcSrJJ_dNRJA/viewform
+#### Project Slides: https://docs.google.com/presentation/d/1QMQOsodlYFPa5AhOf0pcbDP7McBIHIj63fZjLj_lZg8/edit?usp=sharing
+
+#### Google form for writing "seed" sentences: https://forms.gle/UxMKueg6NTJDYoaw7
+
+#### Outputs in the Google Sheet for identifying, discussing, and documenting biases: https://docs.google.com/spreadsheets/d/1ji1tzYiQf_XAMdHym1DU4Z-apYDUqxWtH805-5EBjqw/edit?usp=sharing 
