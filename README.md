@@ -1,6 +1,6 @@
 # LUCID: Language Model Co-auditing through Community-based Red Teaming
 
-###Finalst at Stanford HAI's AI Audit Challenge: check it out [here](https://hai.stanford.edu/ai-audit-challenge-2023-finalists)
+### Finalst at Stanford HAI's AI Audit Challenge: check it out [here](https://hai.stanford.edu/ai-audit-challenge-2023-finalists)
 
 #### The code is available at [LUCID.ipynb](https://github.com/royapakzad/LUCID/blob/main/LUCID.ipynb)
 
