@@ -1,5 +1,7 @@
 # LUCID: Language Model Co-auditing through Community-based Red Teaming
 
+###Finalst at Stanford HAI's AI Audit Challenge: check it out [here](https://hai.stanford.edu/ai-audit-challenge-2023-finalists)
+
 #### The code is available at [LUCID.ipynb](https://github.com/royapakzad/LUCID/blob/main/LUCID.ipynb)
 
 "LUCID" is an AI bias assessment tool that uses a variety of large language models (LLMs) to "red team" AI bias issues. Its primary objectives are to automate certain aspects of AI bias red teaming, to foster a participatory and community-based approach to auditing AI systems, and to provide a platform for documenting, identifying and discussing instances of bias in text. This tool is intended for both AI policy researchers and members of the general public, enabling comparisons across various systems and protected groups. Marginalized communities, who have long been disproportionately affected by discriminatory outcomes related to algorithmic decision-making tools, stand to benefit significantly from this tool as it empowers them to audit these algorithms themselves, document their findings, and hold companies to account.
